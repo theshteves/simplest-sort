@@ -1,4 +1,4 @@
-def simplest_sort():
+def simplest_sort(data: list) -> None:
     '''
     "Is this the simplest (and most surprising) sorting algorithm ever?"
     -- Stanley P. Y. Fung, https://arxiv.org/abs/2110.01111
